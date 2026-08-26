@@ -1,0 +1,3 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kazadvent-lang/Exunys-Aimbot-V3-and-Esp-/main/Aimbot.lua"))()()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kazadvent-lang/Exunys-Aimbot-V3-and-Esp-/main/Esp.lua"))()()
+end
